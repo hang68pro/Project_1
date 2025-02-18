@@ -1,4 +1,4 @@
-# Analyzing the London transportation systme
+# Analyzing the London transportation system
 This project use SQL queries to analyze the London transportation system
 - Analyze the characteristic of London transportation system and answer the questions below  
 1. The most popular transport methods
